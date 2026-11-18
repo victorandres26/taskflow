@@ -25,3 +25,9 @@ python -m pytest -v
 
 ## Evidencias
 (Se completa en cada hito: enlaces a PRs, workflows, sitio publicado y Jira.)
+
+## Clase 1
+Manejo básico de git y github
+
+## Clase 2
+CI implementado
