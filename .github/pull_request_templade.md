@@ -12,4 +12,4 @@
 - [ ] Revisé mi propio diff
 - [ ] Agregué o actualicé pruebas
 - [ ] Las pruebas pasan localmente
-- [ ] Actualicé el README si hace falta
+- [ ] Actualicé el README si hace falta 

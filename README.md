@@ -14,7 +14,7 @@ TaskFlow permite agregar tareas con prioridad (baja, media, alta), completarlas 
 python -m venv .venv
 source .venv/bin/activate        # Windows (Git Bash): source .venv/Scripts/activate
 pip install -r requirements.txt
-python -m taskflow
+python -m taskflow 
 python -m pytest -v
 ```
 
